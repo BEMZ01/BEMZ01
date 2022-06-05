@@ -1,3 +1,5 @@
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BEMZ01?cardType=level&theme=nord&Ring=FFFFFF&Border=434343)
+
 - 👋 Hi, I’m @BEMZ01
 - 👀 I’m interested in Python, Cyber Security and Bug Hunting
 - 🌱 Learning Java
