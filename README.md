@@ -15,7 +15,7 @@ Skills: **PYTHON** / JS / CSS / HTML / JAVA
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
-![tryhackme stats](https://raw.githubusercontent.com/BEMZ01/BEMZ01/master/assets/thm_propic.png)
+[![tryhackme stats](https://raw.githubusercontent.com/BEMZ01/BEMZ01/master/assets/thm_propic.png)](https://tryhackme.com/p/MillerBeS)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BEMZ01)](https://github.com/ryo-ma/github-profile-trophy)
 
