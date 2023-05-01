@@ -4,7 +4,7 @@ I create websites and code in python for fun. I am self taught for 7 years in py
 
 Skills: **PYTHON** / JS / CSS / HTML / JAVA
 
-- 🔭 I’m currently working on Cyber Security (BSc (Hons)) 
+- 🔭 I’m currently working towards Cyber Security (BSc (Hons)) @ BCU 
 - 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on Open-Source Python repositiories. 
 - 💬 Ask me about anything! 
